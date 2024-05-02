@@ -1,5 +1,5 @@
 ### Hi, I'm Roshan!
 
-🏫 Studying at University of Alberta
+🏫 Studying at University of Alberta <br/>
 😊 Pronouns : He/him
 
