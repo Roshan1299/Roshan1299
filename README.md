@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Roshan and I'm a BSc. Computer Science Student studying at University of Alberta, Canada</h3>
+<h2 align="left">Hi 👋! My name is Roshan and I'm a BSc. Computer Science Student studying at University of Alberta, Canada</h2>
 
 # 💻 Tech Stack:
 
