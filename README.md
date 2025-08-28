@@ -5,11 +5,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Roshan1299&label=Profile%20views&color=60598F&style=flat)
 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+
 🎓 Computer Science Student @ University of Alberta | Expected Graduation: 2027  
 🤖 ML Research Assistant | Passionate about Building Intelligent & Scalable Systems  
 🔬 Working on Physics-Informed Neural Networks (PINNs) for Renewable Energy
 
----
+<br>
 
 <p align="center">
   <p align="center">
@@ -20,16 +22,34 @@
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify"></a>
 </p>
 
-## 🛠️ Tech Stack
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,tensorflow,pytorch,spring,docker,aws,git,linux,postgresql,react,nodejs&perline=9)
 
-## 📈 GitHub Stats
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Roshan1299&theme=nightowl&show_icons=true&count_private=true" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Roshan1299&theme=nightowl&hide_border=false&langs_count=3"/>
+</td>
+</tr>
+</table>
+</p>
+<br>
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roshan1299&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Roshan's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1299&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="45%" />  
-</p>
+</p> -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 
