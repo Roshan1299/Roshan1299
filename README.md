@@ -1,7 +1,9 @@
+## Hi there, I'm Roshan! 👋
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<img alt="Hello I'm Roshan" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=470&lines=3rd+Year+Computer+Science+Student;ML+Research+Assistant+@+RTL;Android+%26+Full-Stack+Developer;Building+AI-Powered+Solutions">
 
-<img alt="Hello I'm Roshan" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=435&lines=Hello+I'm+Roshan">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Roshan1299&label=Profile%20views&color=60598F&style=flat)
 
@@ -9,7 +11,7 @@
 
 🎓 Computer Science Student @ University of Alberta | Expected Graduation: 2027  
 🤖 ML Research Assistant | Passionate about Building Intelligent & Scalable Systems  
-🔬 Working on Physics-Informed Neural Networks (PINNs) for Renewable Energy
+🚀 Currently developing [DevSwipe](https://github.com/Roshan1299/DevSwipe) - A revolutionary developer networking platform
 
 <br>
 
@@ -35,10 +37,10 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Roshan1299&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Roshan1299&theme=nightowl&show_icons=true&count_private=true&hide_rank=true" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Roshan1299&theme=nightowl&hide_border=false&langs_count=3"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Roshan1299&theme=nightowl&hide_border=false&langs_count=2"/>
 </td>
 </tr>
 </table>
@@ -50,6 +52,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1299&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="45%" />  
 </p> -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-
-
