@@ -10,11 +10,10 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Basic options
-          user: Roshan-Banisetti
+          # Basic setup
+          user: Roshan1299
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Edmonton
@@ -37,5 +36,5 @@ jobs:
           plugin_habits_charts: yes
 
           # Output
+          filename: github-metrics.svg
           output_action: commit
-          output_path: github-metrics.svg
