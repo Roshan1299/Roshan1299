@@ -2,10 +2,10 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img alt="Hello I'm Roshan" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2b89ff&center=false&vCenter=true&width=470&lines=3rd+Year+Computer+Science+Student;ML+Research+Assistant+@+RTL;Android+%26+Full-Stack+Developer;Building+AI-Powered+Solutions">
+<img alt="Hello I'm Roshan" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2b89ff&center=false&vCenter=true&width=470&lines=3rd+Year+Computer+Science+Student;ML+Research+Assistant+@+RTL;AI+Program+Manager+@+CCUBED;Android+%26+Full-Stack+Developer;Building+AI-Powered+Solutions">
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Roshan1299&label=Profile%20views&color=66bbff&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Roshan1299&label=Profile%20views&color=187eff&style=flat)
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
