@@ -34,16 +34,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Roshan1299&theme=nightowl&show_icons=true&count_private=true&hide_rank=true" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Roshan1299&theme=nightowl&hide_border=false&langs_count=2"/>
-</td>
-</tr>
-</table>
+    <img src="https://githubcard.com/Roshan1299.svg?d=115JlPTe" />
 </p>
 <br>
 
