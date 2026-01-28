@@ -5,13 +5,23 @@
 <img alt="Hello I'm Roshan" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2b89ff&center=false&vCenter=true&width=470&lines=3rd+Year+Computer+Science+Student;ML+Research+Assistant+@+RTL;AI+Program+Manager+@+CCUBED;Android+%26+Full-Stack+Developer;Building+AI-Powered+Solutions">
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Roshan1299&label=Profile%20views&color=187eff&style=flat)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=Roshan1299&label=Profile%20views&color=187eff&style=flat) -->
+
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=Roshan1299%2FViews-Counter">
+    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</div>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 🎓 Computer Science Student @ University of Alberta | Expected Graduation: 2027  
 🤖 ML Research Assistant | Passionate about Building Intelligent & Scalable Systems  
 🚀 Currently developing [DevSwipe](https://github.com/Roshan1299/DevSwipe) - A revolutionary developer networking platform
+
+<!-- <div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Roshan1299&theme=dark_lover&margin-w=5&margin-h=15&row=1&column=7&title=-AchieveSSSRank,-LongTimeUser,-NewUser,MultiLanguage,Commit,Followers,Stars,Repositories,Issues,PullRequest,experience" alt="hexed-AAL1X" width="84%"/>
+</div>      -->
 
 <br>
 
@@ -30,6 +40,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,tensorflow,pytorch,spring,docker,aws,git,linux,postgresql,react,nodejs&perline=9)
 
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
@@ -37,6 +50,8 @@
     <img src="https://githubcard.com/Roshan1299.svg?d=115JlPTe" />
 </p>
 <br>
+
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roshan1299&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Roshan's GitHub Stats" width="48%" />
