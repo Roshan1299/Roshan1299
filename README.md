@@ -46,28 +46,29 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<p align="center">
+<!-- <p align="center">
     <img src="https://githubcard.com/Roshan1299.svg?d=115JlPTe" />
-</p>
+</p> -->
 <br>
 
 <!-- <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roshan1299&theme=dark">
-</p>
+</p> -->
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Roshan1299&theme=dark">
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Roshan1299&theme=dark"> -->
+    <img src="https://githubcard.com/Roshan1299.svg?d=115JlPTe" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roshan1299&theme=dark">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roshan1299&theme=dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Roshan1299&theme=dark&utcOffset=8">
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan1299&theme=react-dark&bg_color=0D1117&hide_border=true">
-</p> -->
+</p>  -->
 
 
 
