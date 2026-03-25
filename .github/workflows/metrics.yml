@@ -41,21 +41,9 @@ jobs:
           user: Roshan1299
           base: ""
           plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_from: all
+          plugin_notable_from: organization
           plugin_notable_types: commit, pull_request, issue
           plugin_notable_self: no
-          plugin_notable_skipped: >-
-            Roshan1299,
-            uofa-cmput404,
-            SwitchbackTech,
-            cmput402,
-            cmput301-w25,
-            cmput291-w25,
-            MisbahAN,
-            hack4health-team20,
-            computingcouncilsofcanada,
-            Renewable-Thermal-Laboratory
 
       # ── RIGHT: Tech Icons (Starred Topics) ──
       - name: 🦑 Tech Icons
