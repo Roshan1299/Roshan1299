@@ -84,11 +84,14 @@
 
 <table>
   <tr>
+    <!-- LEFT COLUMN -->
     <td align="center" width="50%">
       <img src="/header.svg" alt="GitHub metrics" width="100%">
-      <img src="/topics.svg" alt="Tech stack" width="100%">
+      <img src="/notable.svg" alt="Notable contributions" width="100%">
     </td>
+    <!-- RIGHT COLUMN -->
     <td align="center" width="50%">
+      <img src="/topics.svg" alt="Tech stack" width="100%">
       <img src="/isocalendar.svg" alt="Contributions calendar" width="100%">
     </td>
   </tr>
