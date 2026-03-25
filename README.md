@@ -34,32 +34,48 @@
   <!-- <a href="https://open.spotify.com/user/36v5s33rwlgiqtki7b9b51kl6"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify"></a> -->
 </p>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
-![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,tensorflow,pytorch,spring,docker,aws,git,linux,postgresql,react,nodejs&perline=9)
+<!-- ![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,js,tensorflow,pytorch,spring,docker,aws,git,linux,postgresql,react,nodejs&perline=9) -->
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <!-- <p align="center">
-    <img src="https://githubcard.com/Roshan1299.svg?d=115JlPTe" />
+     <img src="https://githubcard.com/Roshan1299.svg?d=115JlPTe" /> 
 </p> -->
+
+<table>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td align="center" width="50%">
+      <img src="/header.svg" alt="GitHub metrics" width="100%">
+      <!-- <img src="/notable.svg" alt="Notable contributions" width="100%"> -->
+    </td>
+    <!-- RIGHT COLUMN -->
+    <td align="center" width="50%">
+      <img src="/topics.svg" alt="Tech stack" width="100%">
+      <img src="/isocalendar.svg" alt="Contributions calendar" width="100%">
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <!-- <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roshan1299&theme=dark">
 </p> -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Roshan1299&theme=dark"> -->
-    <img src="https://githubcard.com/Roshan1299.svg?d=115JlPTe" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roshan1299&theme=dark">
-</p>
+<!-- <img src="https://githubcard.com/Roshan1299.svg?d=115JlPTe" /> -->
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roshan1299&theme=dark"> -->
+<!-- </p> -->
 
 <!-- <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roshan1299&theme=dark">
@@ -82,17 +98,3 @@
 <!-- Generated using https://github.com/lowlighter/metrics -->
 <!-- SVGs are auto-updated daily by the GitHub Action workflow -->
 
-<table>
-  <tr>
-    <!-- LEFT COLUMN -->
-    <td align="center" width="50%">
-      <img src="/header.svg" alt="GitHub metrics" width="100%">
-      <img src="/notable.svg" alt="Notable contributions" width="100%">
-    </td>
-    <!-- RIGHT COLUMN -->
-    <td align="center" width="50%">
-      <img src="/topics.svg" alt="Tech stack" width="100%">
-      <img src="/isocalendar.svg" alt="Contributions calendar" width="100%">
-    </td>
-  </tr>
-</table>
