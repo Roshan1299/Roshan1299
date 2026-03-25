@@ -77,3 +77,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan1299&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="45%" />  
 </p> -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+<!-- Generated using https://github.com/lowlighter/metrics -->
+<!-- SVGs are auto-updated daily by the GitHub Action workflow -->
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <h2>📊 GitHub Metrics</h2>
+    </td>
+  </tr>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td align="center" width="50%">
+      <img src="/header.svg" alt="GitHub metrics" width="100%">
+    </td>
+    <!-- RIGHT COLUMN -->
+    <td align="center" width="50%">
+      <img src="/pagespeed.svg" alt="PageSpeed Insights" width="100%">
+      <img src="/isocalendar.svg" alt="Contributions calendar" width="100%">
+      <img src="/languages.svg" alt="Most used languages" width="100%">
+    </td>
+  </tr>
+</table>
