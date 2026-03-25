@@ -18,8 +18,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      # ── LEFT: Header + Base Stats + Coding Habits ──
-      - name: 🦑 Header + Habits
+      # ── LEFT: Header + Base Stats ──
+      - name: 🦑 Header
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -28,16 +28,24 @@ jobs:
           user: Roshan1299
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, habits
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts_type: classic
           config_timezone: America/Edmonton
 
-      # ── LEFT BOTTOM: Tech Icons (Topics in icons mode) ──
+      # ── LEFT: Notable Contributions ──
+      - name: 🦑 Notable Contributions
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Roshan1299
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit, pull_request, issue
+          plugin_notable_self: yes
+
+      # ── RIGHT: Tech Icons (Starred Topics) ──
       - name: 🦑 Tech Icons
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -49,7 +57,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_limit: 0
-          plugin_topics_sort: stars
+          plugin_topics_sort: starred
 
       # ── RIGHT: Isometric Contributions Calendar ──
       - name: 🦑 Isocalendar
