@@ -84,20 +84,12 @@
 
 <table>
   <tr>
-    <td align="center" colspan="2">
-      <h2>📊 GitHub Metrics</h2>
-    </td>
-  </tr>
-  <tr>
-    <!-- LEFT COLUMN -->
     <td align="center" width="50%">
       <img src="/header.svg" alt="GitHub metrics" width="100%">
+      <img src="/topics.svg" alt="Tech stack" width="100%">
     </td>
-    <!-- RIGHT COLUMN -->
     <td align="center" width="50%">
-      <img src="/pagespeed.svg" alt="PageSpeed Insights" width="100%">
       <img src="/isocalendar.svg" alt="Contributions calendar" width="100%">
-      <img src="/languages.svg" alt="Most used languages" width="100%">
     </td>
   </tr>
 </table>
