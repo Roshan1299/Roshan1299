@@ -86,7 +86,41 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan1299&theme=react-dark&bg_color=0D1117&hide_border=true">
 </p>  -->
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="">&nbsp;***Open Source***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="">
 
+<p align="center">
+  <a href="https://github.com/renovatebot/renovate/pull/43904"><img src="https://github.com/renovatebot.png?size=80" width="48" alt="Renovate"></a>&nbsp;
+  <a href="https://github.com/VictoriaMetrics/VictoriaMetrics/pull/10638"><img src="https://github.com/VictoriaMetrics.png?size=80" width="48" alt="VictoriaMetrics"></a>&nbsp;
+  <a href="https://github.com/semantica-agi/semantica/pull/1970"><img src="https://github.com/semantica-agi.png?size=80" width="48" alt="Semantica"></a>&nbsp;
+  <a href="https://github.com/apache/gravitino/pull/10627"><img src="https://github.com/apache.png?size=80" width="48" alt="Apache Gravitino"></a>&nbsp;
+  <a href="https://github.com/inferstep/ATLAS/pulls?q=is%3Apr+author%3ARoshan1299+is%3Amerged"><img src="https://github.com/inferstep.png?size=80" width="48" alt="ATLAS"></a>&nbsp;
+  <a href="https://github.com/kubetail-org/kubetail/pull/1022"><img src="https://github.com/kubetail-org.png?size=80" width="48" alt="Kubetail"></a>&nbsp;
+  <a href="https://github.com/qgis/QGIS-Documentation/pull/11327"><img src="https://github.com/qgis.png?size=80" width="48" alt="QGIS"></a>&nbsp;
+  <a href="https://github.com/databrickslabs/dqx/pulls?q=is%3Apr+author%3ARoshan1299+is%3Amerged"><img src="https://github.com/databrickslabs.png?size=80" width="48" alt="Databricks Labs DQX"></a>&nbsp;
+  <a href="https://github.com/brekkylab/backlot/pulls?q=is%3Apr+author%3ARoshan1299+is%3Amerged"><img src="https://github.com/brekkylab.png?size=80" width="48" alt="Backlot"></a>&nbsp;
+  <a href="https://github.com/intel/intel-xpu-backend-for-triton/pull/6471"><img src="https://github.com/intel.png?size=80" width="48" alt="Intel XPU backend for Triton"></a>&nbsp;
+  <a href="https://github.com/grafana/metrics-drilldown/pull/1143"><img src="https://github.com/grafana.png?size=80" width="48" alt="Grafana"></a>&nbsp;
+  <a href="https://github.com/equinor/ert/pull/13138"><img src="https://github.com/equinor.png?size=80" width="48" alt="Equinor ERT"></a>
+</p>
+
+<details>
+<summary><b>What those PRs were</b></summary>
+<br>
+
+- **Renovate** (22.8k★): Gitea and Forgejo user handles use `login`, not `username`
+- **VictoriaMetrics** (17.9k★): the Cardinality Explorer shows the series count when a label is in focus
+- **Semantica** (14.1k★): Explorer origin handling, CLI edge cases, test isolation
+- **Apache Gravitino** (3.2k★): staging directories are cleaned up in the right order
+- **Apache Arrow ADBC**: the driver manager returns the parent config path
+- **ATLAS** (2.1k★): ShellCheck on every script (its warnings fixed) and stricter ruff rules
+- **Backlot**: six PRs making the Gmail and HubSpot emulators answer exactly like the real APIs, checked against measured responses
+- **DQX**, **QGIS docs**, **Kubetail**, **Intel Triton XPU**, **Grafana**, **Equinor ERT**, **VulnerableApp**, **EUDIPLO**, **Docling**, **Autosubmit**
+
+[Every merged PR →](https://github.com/search?q=author%3ARoshan1299+is%3Apr+is%3Amerged+-user%3ARoshan1299&type=pullrequests)
+</details>
+
+<br>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roshan1299&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Roshan's GitHub Stats" width="48%" />
